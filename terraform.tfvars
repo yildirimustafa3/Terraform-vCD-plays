@@ -1,3 +1,3 @@
 admin_user = "administrator"
-admin_password = "Axr46Pmz*?Hasan."
+admin_password = "YourPassword"
 org_user_password = "changeme"
